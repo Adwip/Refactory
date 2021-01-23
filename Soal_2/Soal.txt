@@ -1,0 +1,13 @@
+-User tanpa no hp Ok
+-User dengan artikel Ok
+-User dengan nama "annis" Ok
+-User dengan artikel tahun 2020 Ok
+-User lahir tahun 1986 Ok
+-Artikel mengandung kata "tips" Ok
+-Artikel terpublish sebelum August 2019 Ok
+
+-Temukan items di ruang miting Ok
+-Temukan semua peralatan elektronik Ok
+-Temukan semua furniture Ok
+-Temukan semua item dibeli tanggal 16 Januari 2020 Ok
+-Temukan semua item dengan warna coklat Ok

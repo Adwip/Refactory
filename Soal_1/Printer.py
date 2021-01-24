@@ -44,7 +44,7 @@ print('***********************************************************************')
 print(' ')
 
 print (warung.center(30))
-print(set_spasi('Tanggal',datetime.datetime.now().strftime('%x %X')))
+print(set_spasi('Tanggal',tanggal))
 print(set_spasi('Nama',kasir))
 print(' ')
 for k in range(30):
